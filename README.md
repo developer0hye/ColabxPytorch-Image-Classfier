@@ -1,2 +1,2 @@
-# ColabXPytorch-Your-Own-Image-Classfier
-ColabXPytorch-Your-Own-Image-Classfier
+# ColabXPytorch-Image-Classfier
+ColabXPytorch-Image-Classfier
